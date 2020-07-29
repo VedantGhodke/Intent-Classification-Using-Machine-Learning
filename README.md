@@ -1,8 +1,5 @@
-## Intent-classification
+## Intent Classification Using Machine Learning
 
 
-The task is take labelled raw data as input and build an intent classification
-model which can predict user intents from future messages that may come into the system.
-
-
-![demo](./demo.gif)
+The task takes labelled raw data as input and builds an intent classification model which can predict user intents from future messages that may come into the system.
+Here the model is developed for Vahan Intent Classification dataset.
